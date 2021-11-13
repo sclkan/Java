@@ -1,2 +1,2 @@
-# Java
-Java projects that I have worked on
+# Java Projects
+Please click on the subfolder for more info about each project
