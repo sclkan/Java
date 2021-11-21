@@ -1,2 +1,2 @@
 # Java Projects
-Please click on the subfolder for more info about each project
+Click on the folders for more information about each project
